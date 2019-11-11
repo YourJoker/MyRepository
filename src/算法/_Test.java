@@ -123,6 +123,7 @@ public class _Test {
             comparator(arr2);
             if (!isEqual(arr1, arr2)) {
                 succeed = false;
+
                 break;
             }
         }
